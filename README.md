@@ -2,6 +2,7 @@
 Peojeto para um leilão online
 
 Nome do projeto: Pythonformers
+
 Integrantes do Grupo:
 Caique Braga de Araujo		2100478
 Daniel Torres de Almeida	2100058
